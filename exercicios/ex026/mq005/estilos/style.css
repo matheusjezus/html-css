@@ -22,7 +22,7 @@ header > h1 {
 }
 
 span#burguer {
-    background-color: rgb(148, 148, 148);
+    background-color: rgba(0, 0, 0, 0.616);
     color: white;
     display: block;
     text-align: center;
